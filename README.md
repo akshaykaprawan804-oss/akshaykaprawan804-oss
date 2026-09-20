@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay kaprawan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am passionate about Data Analytics and enjoy working with data to identify patterns, generate meaningful insights, and support data-driven decision-making. I am continuously developing my skills in SQL, Excel, Power BI, and Python, with a strong interest in building a career as a Data Analyst.
+</h3>
 <img align "right" alt="coding" width"400" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_680,h_428/https://kiyalearning.com/wp-content/uploads/2023/12/GIF-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykaprawan804-oss&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykaprawan804-oss" /> </p>
 
